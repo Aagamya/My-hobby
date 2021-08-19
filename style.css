@@ -1,0 +1,31 @@
+img{
+    height: 300px;
+    width: 500px;
+}
+body{
+    background: linear-gradient(#8c0af0 0%,#ed0c79 100%);
+    text-align: center;
+        
+}
+.menu{
+    list-style: none;
+    right: 30px;
+    top: 10px;
+    cursor: pointer;
+}
+.link{
+    float: left;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 9px;
+    padding-right: 9px;
+    font-family: 'Style Script', cursive;
+}
+h2{
+    font-family: fantasy;
+}
+p{
+    font-family: sans-serif;
+}
+
+
